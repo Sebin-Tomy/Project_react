@@ -15,11 +15,13 @@ Features
 7. Modular code (React + Vite)
 
 Tech Stack
+
+
 1.React with Hooks
 2.Vite
 3.Tailwind CSS
 4.Lucide Icons
-To run locally:
+
 
 
 To run locally:
