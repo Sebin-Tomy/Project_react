@@ -56,7 +56,7 @@ Visual highlighting or diff maps for detecting small differences between variant
 Allow users to export the results (file info, dimension comparison, etc.) as PDF or image.
 
 Live Demo:-
-The project is deplyed using vercel
+The project is deployed using vercel
 Click here to view the live site-(https://project-react-topaz-seven.vercel.app/)
 
 
